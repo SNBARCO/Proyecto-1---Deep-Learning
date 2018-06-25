@@ -12,3 +12,8 @@ Rafael Niño - 200522388
 ## Proyecto BNP Paribas Cardif Claims Management
 
 https://www.kaggle.com/c/bnp-paribas-cardif-claims-management/data
+
+## Link Bases - BNP Paribas Cardif Claims Management
+
+
+https://uniandes-my.sharepoint.com/:f:/g/personal/mc_trespalacios_uniandes_edu_co/EsoEL8on-HhKnNkvGTwyU58BEKwVCUEb3167EUQ_Bxit6w?e=H0NeXk
